@@ -1,0 +1,8 @@
+category_id, category_name, product_id, product_name, product_description, product_image, product_price, product_quantity, product_status
+PC1, Car, PR1, Motorola, Motorola Car, , 1200000.0, 9, IN_STOCK
+PC2, Alcoholic Drink, PR2, Life, Life larger beer is an alcoholic drink, , 5000.0, 2, IN_STOCK
+PC3, Beverages, PR3, Milo, For teas and beverage mixes, , 2000.0, 2, IN_STOCK
+PC4, Soft Drink, PR4, Fanta, Drink from CocaCola, , 300.0, 0, OUT_OF_STOCK
+PC5, Soft Drink, PR5, Coke, CocaCola drink, , 300.0, 2, IN_STOCK
+PC6, Soft Drink, PR6, Sprite, CocaCola drink, , 300.0, 0, OUT_OF_STOCK
+PC7, Wine, PR7, Pure Heaven, Fruity wine drink, , 5000.0, 0, OUT_OF_STOCK
